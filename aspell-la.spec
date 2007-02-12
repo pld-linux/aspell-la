@@ -1,5 +1,5 @@
 Summary:	Latin dictionary for aspell
-Summary(pl):	S≥ownik ≥aciÒski dla aspella
+Summary(pl.UTF-8):   S≈Çownik ≈Çaci≈Ñski dla aspella
 Name:		aspell-la
 Version:	20020503
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Latin dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik ≥aciÒski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik ≈Çaci≈Ñski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-la-%{version}-%{subv}
