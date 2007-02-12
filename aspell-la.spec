@@ -1,5 +1,5 @@
 Summary:	Latin dictionary for aspell
-Summary(pl.UTF-8):   Słownik łaciński dla aspella
+Summary(pl.UTF-8):	Słownik łaciński dla aspella
 Name:		aspell-la
 Version:	20020503
 %define	subv	0
